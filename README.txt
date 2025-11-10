@@ -39,7 +39,3 @@ This app was built as a practical demonstration of using AI to generate the core
 - Create a dashboard to visualize feedback trends over time.
 - Add user authentication to allow multiple users to manage their own feedback streams.
 - Containerize the application using Docker for easy deployment.
-
-## Author
-
-Daniel Watkins
