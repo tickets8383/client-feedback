@@ -42,4 +42,4 @@ This app was built as a practical demonstration of using AI to generate the core
 
 ## Author
 
-A prototype generated with strategic assistance from an AI language model to illustrate the principle of implementation over discussion.
+Daniel Watkins
