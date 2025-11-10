@@ -35,7 +35,7 @@ This app was built as a practical demonstration of using AI to generate the core
 
 ## Future Enhancements
 
-- Integrate a large language model (like the one from Venice.ai) to perform automated sentiment analysis on submitted feedback.
+- Integrate a large language model to perform automated sentiment analysis on submitted feedback.
 - Create a dashboard to visualize feedback trends over time.
 - Add user authentication to allow multiple users to manage their own feedback streams.
 - Containerize the application using Docker for easy deployment.
